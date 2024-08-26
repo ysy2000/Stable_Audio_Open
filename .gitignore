@@ -4,6 +4,7 @@ checkpoints/
 
 # output
 *.wav
+/home/rxkmmm/Stable_Audio_Open/stable-audio-tools/*.wav
 
 # model
 model.ckpt

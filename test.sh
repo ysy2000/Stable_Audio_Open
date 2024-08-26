@@ -8,7 +8,7 @@ python3 train.py \
 --checkpoint-every 1000 \
 --precision 16-mixed \
 --seed 128 \
+--barch-size 32 \
 --pretrained-ckpt-path /home/rxkmmm/Stable_Audio_Open/model.ckpt
 
-# --barch-size 64
 # --num-gpus 2
