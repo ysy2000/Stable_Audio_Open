@@ -1,0 +1,11 @@
+{
+    "dataset_type": "audio_dir",
+    "datasets": [
+        {
+            "id": "Reggae",
+            "path": "/home/rxkmmm/mnt/samples/Reggae",
+            "custom_metadata_module": "/home/rxkmmm/Stable_Audio_Open/dataset.py"
+        }
+    ],
+    "random_crop": false
+}
