@@ -1,10 +1,11 @@
 # env
 env/
 checkpoints/
+__pycache__/
+__pycache__/dataset.cpython-38.pyc
 
 # output
 *.wav
-/home/rxkmmm/Stable_Audio_Open/stable-audio-tools/*.wav
 
 # model
 model.ckpt
