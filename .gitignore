@@ -6,6 +6,8 @@ __pycache__/dataset.cpython-38.pyc
 
 # output
 *.wav
+stable-audio-tools/output.txt
+output.txt
 
 # model
 model.ckpt

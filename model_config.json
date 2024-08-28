@@ -114,10 +114,10 @@
             "demo_steps": 250,
             "num_demos": 4,
             "demo_cond": [
-                {"prompt": "The Song for Verses Korea", "seconds_start": 0, "seconds_total": 5},
-                {"prompt": "Bass loop with drum line", "seconds_start": 0, "seconds_total": 5},
-                {"prompt": "Good intro music for Gaming YouTube", "seconds_start": 0, "seconds_total": 5},
-                {"prompt": "Classic pop song 108 bpm", "seconds_start": 0, "seconds_total": 5}
+                {"prompt": "The Song for Verses Korea", "seconds_start": 0, "seconds_total": 6},
+                {"prompt": "Bass loop with drum line", "seconds_start": 0, "seconds_total": 6},
+                {"prompt": "Good intro music for Gaming YouTube", "seconds_start": 0, "seconds_total": 6},
+                {"prompt": "Classic pop song 108 bpm", "seconds_start": 0, "seconds_total": 6}
             ],
             "demo_cfg_scales": [4, 7]
         }
