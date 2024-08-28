@@ -7,7 +7,7 @@ def get_custom_metadata(info, audio):
     prompt = prompt .replace("/", " ")
     prompt = prompt .replace(".wav", "")
     
-    print(prompt)
+    # print(prompt)
     # Use relative path as the prompt
     
     return {"prompt": prompt}
