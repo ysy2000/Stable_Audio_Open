@@ -1,0 +1,13 @@
+python ../eval.py "Reggae, drums, electric bass, electric guitar, keyboard, chillout"
+python ../eval.py "Reggae, C G A min F, 100bpm"
+python ../eval.py "Reggae, horns, brass, and afro-cuban, chillout"
+python ../eval.py "Reggae, 1960, 100bpm"
+python ../eval.py "Reggae, traditional reggae, 100bpm"
+python ../eval.py "Reggae, 75bpm, minor key, one drop rhythm, deep bassline, syncopated guitar, warm keyboards, uplifting brass section"
+python ../eval.py "Slow tempo, 75bpm, syncopated offbeat guitar, deep rolling bassline, one drop drum pattern, warm organ chords, brass section, minor key, relaxed and groovy feel"
+python ../eval.py "Reggae, 80bpm, offbeat guitar skank, powerful bass, one drop drum pattern, mellow organ, smooth brass, minor scale, laid-back groove"
+python ../eval.py "Reggae, 70bpm, syncopated rhythm guitar, deep bass, minimalistic drums, bright horn section, warm keyboard, minor key, relaxed vibe"
+python ../eval.py "Reggae, 75bpm, groovy bassline, offbeat guitar, smooth organ, punchy drums, soothing horns, minor key, chill and rhythmic feel"
+python ../eval.py "Reggae, 78bpm, rhythmic guitar, low bass, sparse drum hits, melodic keyboard, soulful brass, minor scale, easygoing and rhythmic"
+python ../eval.py "Reggae, 72bpm, offbeat guitar chords, heavy bassline, relaxed drum groove, warm organ sounds, uplifting brass section, minor key, smooth and steady"
+
